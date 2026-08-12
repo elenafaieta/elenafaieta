@@ -4,7 +4,6 @@
 - 💞️ I’m looking for job opportunities as a Quant
 - 📫 elena.faieta@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm the President of Italian Society, International Student Rep and Member of Women Futsal Team @Essexuniversity
              
 
 <!---
