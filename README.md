@@ -22,15 +22,26 @@ I'm currently expanding my work into **Python, machine learning and data science
 
 **Data Science:** pandas, scikit-learn, data visualisation, feature engineering, predictive modelling
 
-## 📊 Featured Data Science Project
+## 📊 Featured Data Science Projects
 
 ### Generative AI Exposure and Regional Labour Markets in the UK
 
-I built an end-to-end Python project combining UK occupational employment data with ILO measures of generative AI exposure to examine how exposure to GenAI differs across regional labour markets.
+Built an end-to-end data science project combining UK occupational employment data with ILO measures of generative AI exposure to analyse how AI exposure varies across regional labour markets.
 
-The project covers **data cleaning, occupational classification crosswalks, feature engineering, employment-weighted exposure indices, Ridge regression and out-of-sample time validation**.
+**Skills demonstrated:** Python, pandas, scikit-learn, data cleaning, occupational crosswalks, feature engineering, employment-weighted indices, Ridge regression, model evaluation and out-of-sample time validation.
 
 ➡️ [Explore the project](https://github.com/elenafaieta/AI_Labour_Market_Project)
+
+---
+
+### UK Labour Demand & Skills Tracker
+
+Built an end-to-end labour-market analytics pipeline using live UK job-advertisement data collected programmatically through the Adzuna API to analyse demand for AI/data, digital and green skills across salaries and regions.
+
+**Skills demonstrated:** REST APIs, Python, requests, pandas, JSON, SQLite, SQL, data cleaning, regular expressions, relational database design, data visualisation, Tableau and Git/GitHub.
+
+➡️ [Explore the project](https://github.com/elenafaieta/UK_Labour_Demand_Skills_Tracker)
+➡️ [View the interactive Tableau dashboard](https://public.tableau.com/shared/XDTPW925D?:display_count=n&:origin=viz_share_link)
 
 ## 📚 Research
 
